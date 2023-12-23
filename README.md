@@ -43,8 +43,7 @@ creat user and generate qr code for user
     
     Type flutter run and hit Enter.
 
-
-    ####Dependencies
+####Dependencies
 
     qr code
     
