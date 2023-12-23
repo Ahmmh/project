@@ -1,11 +1,11 @@
 # CurrenSee
-use provider package
+The provider package state management solution that helps manage and propagate changes to the app state. It's a convenient way to share data across app efficiently
 
 
-use qr package
+regular e-commerce app setting
 
 
-use firebase packages
+use firebase for authentication
 
 
 ## features
@@ -40,3 +40,13 @@ creat user and generate qr code for user
 
     
     Type flutter run and hit Enter.
+
+
+    ####Dependencies
+
+    qr code
+    
+    provider
+
+    firebase packages
+    
