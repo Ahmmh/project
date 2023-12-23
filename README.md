@@ -1,16 +1,12 @@
-# final_project
+# CurrenSee
+use provider package
+use qr package
+use firebase packages
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+E-commerce Flutter Project Overview
+A versatile e-commerce application built with Flutter, designed to offer seamless shopping experiences with the following features:
+favourite page:add your items to the favourite page
+Product Catalog: Browse a wide range of products conveniently categorized for easy navigation.
+Shopping Cart: Add desired items to a shopping cart.
+User Authentication: Secure user authentication system for registration and login functionalities
