@@ -30,7 +30,7 @@ User Authentication: Secure user authentication system for registration and logi
 creat user and generate qr code for user
 
 
-### set up and run on your device
+## set up and run on your device
 
     Install flutter on your machine.
 
@@ -43,11 +43,15 @@ creat user and generate qr code for user
     
     Type flutter run and hit Enter.
 
-####Dependencies
+## Dependencies
 
     qr code
     
     provider
 
     firebase packages
-    
+## video   
+
+
+https://github.com/Ahmmh/project/assets/139328416/4eb2f9ef-ff08-4db3-b20a-159108b2b33d
+
